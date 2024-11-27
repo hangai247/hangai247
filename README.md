@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hey there! 👋 I'm Sonin!
 
-<!--
-**hangai247/hangai247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** at **Asurion** and a **Tech Lead** at [**Gertech Inc**](https://www.gertech.jp/) 💊 and [**Aplus**](https://aplus.mn/) 🎓. I enjoy solving problems, learning new things, and building useful software with great teams.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Tech Stack 🛠️
+
+- **Languages:**  
+  🦀 Rust • 🟢 Node.js • 🔵 TypeScript  
+
+- **Frontend:**  
+  ⚛️ React • 📱 React Native • ⚡ Next.js  
+
+- **Cloud & DevOps:**  
+  ☁️ AWS • 🚢 Kubernetes
+
+---
+
+## What I’m Working On 🚀
+
+- **Asurion:** Exploring tech and contributing to interesting projects.  
+- **Gertech Inc:** Supporting healthcare with digital tools.  
+- **Aplus EdTech:** Creating tools that help students learn more effectively.
+
+---
+
+## A Few Things About Me 🌱
+
+- I appreciate clean code and simple solutions.  
+- I’m always curious and enjoy learning from others.  
+- When I’m not coding, I am reading code. 
+
+---
+
+## Let’s Connect! 🌐
+
+- [LinkedIn](https://www.linkedin.com/in/hangai247/)  
+(Feel free to reach out!)
