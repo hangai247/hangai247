@@ -37,7 +37,3 @@ I'm a **Senior Software Engineer** at **Asurion** and a **Tech Lead** at [**Gert
 
 - [LinkedIn](https://www.linkedin.com/in/hangai247/)
   (Feel free to reach out!)
-
-##
-
-<a href="https://app.daily.dev/hangai247"><img src="./devcard.png" width="356" alt="Sonio's Dev Card"/></a>
